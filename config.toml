@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Flutter Sessions"
+theme = "binario"
+paginate = 12
+
+[Params]
+  description = "Responsive card-based & code-light Hugo theme"
+  columns = 2
+  
