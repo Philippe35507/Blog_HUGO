@@ -1,10 +1,15 @@
-+++
-title= "Welcome"
-description= "Premier post sur le code et le highlighting."
-date= 2020-10-27T10:01:47Z
-draft= false
-tags= []
-+++
+---
+title: "Welcome"
+description: Example test article that contains basic HTML elements for text formatting on the Web.
+date: 2020-10-27T18:52:44Z
+draft: false
+categories:
+  - "Dev"
+tags:
+  - "Flutter"
+  - "html"
+  - "CSS"
+---
 
 The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.
 

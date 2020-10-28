@@ -1,6 +1,13 @@
-+++
-title= "{{ replace .Name "-" " " | title }}"
-date= {{ .Date }}
-draft= false
-tags= []
-+++
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+description: ""
+draft: false
+categories:
+  - "Dev"
+tags:
+  - "Flutter"
+  - "html"
+  - "css"
+  - "Javascript"
+---

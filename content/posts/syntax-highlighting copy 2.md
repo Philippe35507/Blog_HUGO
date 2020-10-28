@@ -1,5 +1,5 @@
 ---
-title: Hugo Syntax Highlighting
+title: Highlighting example test that shows how to creating and highlighting
 description: Syntax Highlighting example test article that shows how to creating and highlighting code blocks in Hugo-generated site
 date: 2018-04-15
 categories:
@@ -13,11 +13,13 @@ tags:
 ---
 
 You can have code snippets highlighted so that they are easier to read on your site using Chroma, Hugo's default syntax highlighter. It is built in Go lang and is really, really fast – and for the most important parts compatible with Pygments. Chroma takes source code and other structured text and converts it into syntax highlighted HTML, ANSI-coloured text, etc.
+
 <!--more-->
 
 The example below shows a simple HTML code snippet highlighted with the Hugo [highlight](https://gohugo.io/content-management/shortcodes/#highlight) built-in shortcode:
 
 {{< highlight html >}}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
