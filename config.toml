@@ -44,7 +44,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.Breadcrumb]
   enable = true # Enable breadcrumb block globally
-  homeText = "home" # Home node text
+  homeText = "Home" # Home node text
 
 [Params.Social]
   email = "example@example.com"

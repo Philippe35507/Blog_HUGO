@@ -1,19 +1,20 @@
 ---
-title: "Essai8"
+title: "SliverAppBar (Widget of the Week)"
 date: 2020-10-27
-description: "The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo."
+description: "SliverAppBar may sound like a familiar widget, but in this episode we show you how to use the new FlexibleSpaceBar's expandedHeight and flexibleSpace properties to create an area at the top of a list that can grow, shrink, and more!"
 draft: false
 categories:
   - "Dev"
 tags:
   - "Flutter"
-  - "html"
-  - "css"
-  - "Javascript"
 ---
 
-You can have code snippets highlighted so that they are easier to read on your site using Chroma, Hugo's default syntax highlighter. It is built in Go lang and is really, really fast – and for the most important parts compatible with Pygments. Chroma takes source code and other structured text and converts it into syntax highlighted HTML, ANSI-coloured text, etc.
+SliverAppBar may sound like a familiar widget, but in this episode we show you how to use the new FlexibleSpaceBar's expandedHeight and flexibleSpace properties to create an area at the top of a list that can grow, shrink, and more!
 
 <!--more-->
 
-The example below shows a simple HTML code snippet highlighted with the Hugo [highlight](https://gohugo.io/content-management/shortcodes/#highlight) built-in shortcode:
+SliverAppBar may sound like a familiar widget, but in this episode we show you how to use the new FlexibleSpaceBar's expandedHeight and flexibleSpace properties to create an area at the top of a list that can grow, shrink, and more!
+
+{{<youtube mSc7qFzxHDw>}}
+
+SliverAppBar may sound like a familiar widget, but in this episode we show you how to use the new FlexibleSpaceBar's expandedHeight and flexibleSpace properties to create an area at the top of a list that can grow, shrink, and more!
