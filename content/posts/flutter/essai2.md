@@ -1,5 +1,5 @@
 ---
-title: "essai2"
+title: "How to remove all items from a MongoDB collection"
 description: Example test article that contains basic HTML elements for text formatting on the Web.
 date: 2020-10-27T18:52:44Z
 draft: false

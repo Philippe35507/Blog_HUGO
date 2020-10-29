@@ -4,5 +4,8 @@
 	{{- with .Summary }}
 	<div class="entry__content">{{ . }}</div>
 	{{- end }}
+	<footer class="entry__footer">
+	{{ partial "entry/tags.html" . }}
+	</footer>
 	{{- partial "entry/meta.html" (dict "page" . "class" "mt tar") }}
 </article>

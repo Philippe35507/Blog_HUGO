@@ -1,5 +1,5 @@
 ---
-title: "Essai6"
+title: "How to remove all items from a MongoDB collection"
 date: 2020-10-27T21:38:52Z
 draft: false
 categories:

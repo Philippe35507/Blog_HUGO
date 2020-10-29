@@ -1,5 +1,5 @@
 ---
-title: "Essai9 Flutter"
+title: "How to remove all items from a MongoDB collection"
 date: 2020-10-28
 description: ""
 draft: false
